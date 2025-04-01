@@ -11,7 +11,7 @@
 - **ETL & Data Wrangling:** SQL, Excel, Pandas
 - **Data Visualization:** Matplotlib, Seaborn, DAX (Power BI)
 - **Languages:** Python, SQL
-- 
+  
 ### 📊 Accounting & Finance Analytics
 - **Tools:** Excel (VBA, Pivot Tables), QuickBooks, Xero, Tally, SAP
 - **Financial Modeling:** Forecasting, Pricing Analysis, KPI Dashboards

@@ -1,22 +1,28 @@
-# 👋 Hi, I'm Md Yeashin Arafat!
+# Airbnb Bedroom Price Analysis Project
+**Project Overview**
+This project uses Tableau to perform a detailed analysis of Airbnb bedroom prices based on multiple dimensions including zipcode, number of bedrooms, calendar dates, and seasonal trends. Through interactive dashboards, the project provides clear visual insights to assist hosts, analysts, and business stakeholders in making informed pricing and investment decisions.
 
-## 🚀 About Me
-- 🎓 Master’s in **Business Analytics & Big Data Systems**.
-- 📊 3 years experience in **Accounting & Finance** in the **Maritime Industry**.
-- 🏗️ Business Knowledge in **Hardware Industry, Maritime Industry & Agricultural Ventures**.
-- 📈 Passionate about **Business Intelligence, Business Analytics, Visual Analytics**.
+**Key Features**
+- Price Distribution by Zipcode
+- Visualizes average listing prices across different Seattle zip codes to identify high and low-value areas.
 
-### 🔍 Business Intelligence & Data Analytics
-- **BI Tools:** Power BI, Tableau, Google Data Studio
-- **ETL & Data Wrangling:** SQL, Excel, Pandas
-- **Data Visualization:** Matplotlib, Seaborn, DAX (Power BI)
-- **Languages:** Python, SQL
-  
-### 📊 Accounting & Finance Analytics
-- **Tools:** Excel (VBA, Pivot Tables), QuickBooks, Xero, Tally, SAP
-- **Financial Modeling:** Forecasting, Pricing Analysis, KPI Dashboards
+**Revenue Trends by Quarter**
+Tracks Airbnb revenue through Q1, Q2, Q3, and Q4 to reveal seasonal variations in demand and earnings.
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/md-yeashin-arafat-976241130/)
-[![Email](https://img.shields.io/badge/Email-Mail-red?logo=gmail)](mdarafat.uiu@gmail.com)
+**Bedroom Pricing Analysis**
+Displays how average prices change based on the number of bedrooms, offering insight for property upgrades or rental strategies.
 
+**Interactive Dashboards**
+Allows users to dynamically filter by bedrooms, zip codes, or quarters to explore specific trends.
+
+**Tools and Technologies**
+Tableau: Data visualization and dashboard creation
+
+**Objective**
+The goal of this project is to:
+
+Help Airbnb hosts set competitive prices.
+
+Allow investors to identify profitable zip codes.
+
+Understand how bedroom count impacts potential revenue.
